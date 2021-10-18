@@ -72,7 +72,7 @@ function draw() {
  }
 
   
-
+}
   
   drawSprites();
   textSize(20);
@@ -100,10 +100,13 @@ function createhaunter() {
   
   hauntergrp.add(haunter);
   enemyGroup.add(haunter);
+  
 }
 
-
+function spawnObstecals (){
+  
+}
 
 
   
-}
+
